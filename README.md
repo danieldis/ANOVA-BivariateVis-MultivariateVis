@@ -8,7 +8,7 @@ that will be of the most predictive power. In other words, which columns (or sub
 
 I'm using the Titanic data set: https://www.kaggle.com/c/titanic/data (Links to an external site.)
 
-The file I will be using is the "train.csv" file: [train.csv](</downloads/train.csv "Title">).
+The file I will be using is the "train.csv" file: [train.csv](</Downloads/train.csv "Title">).
 
 The idea behind the data is that "train.csv" file helps me know who did and who did not survive. The "test.csv" file is used to 
 actually test my model. However, I'm not quite ready for the actual prediction.
